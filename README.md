@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Alyanna, a second year computer science student at Ryerson University.
-### I have experience with Python and Java and I'm currently learning JavaScript, HTML, and CSS.
-### Current Project 🚧: Online Resume (JavaScript + HTML)
+### Hi there 👋 I'm Alyanna.
+#### I have experience with Python and Java and I'm currently learning JavaScript, HTML, and CSS.
+#### Current Project 🚧: Online Resume (JavaScript + HTML)
 
 ### 
 <!--
