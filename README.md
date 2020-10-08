@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Alyanna, a second year computer science student at Ryerson University.
+### I have experience with Python and Java and I'm currently learning JavaScript, HTML, and CSS.
+### Current Project 🚧: Online Resume (JavaScript + HTML)
 
+### 
 <!--
 **al-yanna/al-yanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
