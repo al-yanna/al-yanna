@@ -1,6 +1,4 @@
 ### Hi there 👋 I'm Alyanna.
-
-### 
 <!--
 **al-yanna/al-yanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
