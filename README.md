@@ -1,6 +1,4 @@
 ### Hi there 👋 I'm Alyanna.
-#### I have experience with Python and Java and I'm currently learning JavaScript, HTML, and CSS.
-#### Current Project 🚧: Online Resume (JavaScript + HTML)
 
 ### 
 <!--
